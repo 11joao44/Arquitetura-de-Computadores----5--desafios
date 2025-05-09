@@ -29,5 +29,5 @@
 | Hexadecimal |    16    | 0 … 9, A (10) … F (15) |
 
 > superíndice(sobrescrito) 0-9: ⁰ ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹
-> 
+>
 > índice(subscrito) 0-9: ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉
