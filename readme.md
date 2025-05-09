@@ -8,7 +8,7 @@
 
 ### **Base 10 (hexadecimal → decimal) - Desafio 2**
 
-2F₁₆: 2x16¹ + 15x1=15 = 47₁₀
+2F₁₆: 2x16¹=32 + 15x16⁰=15 = 47₁₀
 
 ### **Base 2 (decimal → binário)**
 
