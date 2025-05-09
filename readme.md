@@ -54,11 +54,17 @@
 ou
 
 37₁₀: 37 ÷ 2 = 23 [37 - (2x23=36) = 1]
+
 23 ÷ 2 = 11 [23 - (2x11=22) = 1]
+
 11 ÷ 2 = 5 [11 - (2x 5=10) = 1]
+
 5 ÷ 2 = 2 [ 5 - (2x 2= 4) = 1]
+
 2 ÷ 2 = 1 [ 2 - (2x 1= 2) = 0]
+
 1 ÷ 2 = 0 [ 1 - (2x 0= 0) = 1]
+
 = 100101₂ binário
 
 ### **Base 16 (octal → hexadecimal)**
@@ -78,6 +84,7 @@ Dica: Agrupe os bits em conjuntos de 3 (para octal) ou 4 (para hexadecimal).
 ### **Base 8 (binária → octal)**
 
 45₁₀ 45 ÷ 8 = 5 [0.625 x 8 = 5]
+
 5 ÷ 8 = 0 [5 - (0x8=0) = 5]
 =55₈ octal
 
