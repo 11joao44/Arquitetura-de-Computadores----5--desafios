@@ -8,9 +8,6 @@
 
 ### **Base 10 (hexadecimal → decimal) - Desafio 2**
 
-> superíndice(sobrescrito) 0-9: ⁰ ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹
-> índice(subscrito) 0-9: ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉
-
 2F₁₆: 2x16¹ + 15x1=15 = 47₁₀
 
 ### **Base 2 (decimal → binário)**
@@ -18,11 +15,17 @@
 47₁₀ →
 
 47 ÷ 2 = 23 [47 - (2x23=46) = 1]
+
 23 ÷ 2 = 11 [23 - (2x11=22) = 1]
+
 11 ÷ 2 = 5 [11 - (2x 5=10) = 1]
+
 5 ÷ 2 = 2 [ 5 - (2x 2= 4) = 1]
+
 2 ÷ 2 = 1 [ 2 - (2x 1= 2) = 0]
+
 1 ÷ 2 = 0 [ 1 - (2x 0= 0) = 1]
+
 = 101111₂ binário
 
 ### **Base 8 (decimal → octal)**
@@ -53,7 +56,9 @@
 
 ou
 
-37₁₀: 37 ÷ 2 = 23 [37 - (2x23=36) = 1]
+37₁₀ →
+
+37 ÷ 2 = 23 [37 - (2x23=36) = 1]
 
 23 ÷ 2 = 11 [23 - (2x11=22) = 1]
 
@@ -86,6 +91,7 @@ Dica: Agrupe os bits em conjuntos de 3 (para octal) ou 4 (para hexadecimal).
 45₁₀ 45 ÷ 8 = 5 [0.625 x 8 = 5]
 
 5 ÷ 8 = 0 [5 - (0x8=0) = 5]
+
 =55₈ octal
 
 ### **Base 16 (binária → Hexadecimal)**
